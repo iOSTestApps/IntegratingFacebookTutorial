@@ -377,7 +377,7 @@
 		D4DA7A0314D3345A0055F672 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Doe Pics Hit Inc";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
@@ -394,7 +394,7 @@
 		D4DA7A0414D3345A0055F672 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Doe Pics Hit Inc";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)",
